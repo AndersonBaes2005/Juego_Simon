@@ -1,3 +1,2 @@
 # Simon dice... 
-Videojuego de seguimiento de patrones de colores con html, css y javascript
 npm install Express dotenv mysql2 body-parser --- instalen esas dependencias de javascript y si no tienen Node.js lo instalan desde aqui https://nodejs.org/es/download
